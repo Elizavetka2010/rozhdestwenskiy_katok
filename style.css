@@ -37,6 +37,7 @@ footer, header {
 table {
     border: 1px solid cornflowerblue;
     border-collapse: collapse;
+    text-align: center;
 }
 th {
     background-color: lightblue;
